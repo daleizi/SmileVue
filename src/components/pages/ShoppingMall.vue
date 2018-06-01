@@ -87,6 +87,7 @@
     import floorComponent from '../component/floorComponent.vue'
     import goodsInfoComponent from '../component/goodsInfoComponent.vue'
     import {toMoney} from '@/filter/moneyFilter.js'
+    //引入接口
     import url from '@/serviceAPI.config.js'
 
     export default {
